@@ -1,0 +1,86 @@
+
+
+h2 {
+  color: #46B5C2;
+  }
+
+h3 {
+  color: #46B5C2;
+  }
+
+
+
+body {
+  color: rgb(10, 10, 10);
+  background-color: #F5F5F5;
+  font-family: 'Raleway Dots', cursive;
+}
+
+img {
+  width: 150px;
+  box-shadow: 2px 2px 20px #C5C5C5
+
+}
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+.name {
+  color: black;
+}
+.profil-info {
+  background-color: white;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px #C5C5C5;
+  text-align: center;
+  padding: 30px;
+}
+.profil-info h1 span{
+ color: rgba(10, 249, 153, 0.94);
+ font-weight: bolder;
+}
+.photoprofile {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  box-shadow: 2px 2px 20px #C5C5C5
+
+}
+.profil-info h1 {
+  color: #46B5C2;
+  font-size: 25px
+}
+.social-links {
+  color: rgb(10, 10, 10);
+  background-color: white;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px #C5C5C5;
+  text-align: center;
+  padding: 5px;
+}
+.social-links li {
+  list-style: none;
+  font-size: 30px;
+  display: inline;
+}
+.movies {
+  color: #46B5C2;
+  font-family: 'Raleway Dots', cursive;
+  box-shadow: 2px 2px 4px #C5C5C5;
+}
+
+.movie img {
+  margin-right: 20px;
+}
+
+a {
+  color: pink;
+}
+
+a:hover {
+  color: purple;
+}
+.footer{
+  color: pink;
+  text-align: center;
+}
